@@ -54,7 +54,7 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 > - Detailed reporting on password policies, UAC, SMBv1/v2 deprecation, and advanced audit logs.
 > - Clear remediation guidance designed to turn complex security baselines into teachable moments.
 
-### 🌉 [OT/ICS Threat & SOC Simulator ("Hack the Bridge")](https://github.com/fabjan4u/ot-soc-simulator)
+### 🌉 [OT/ICS Threat & SOC Simulator ("Hack the Bridge")](https://github.com/fabjan4u/hack-the-bridge-soc)
 > **Industrial Control Systems (ICS) Blue Team monitoring dashboard and PLC simulation environment.**
 > Built as the digital backbone for the *Hack the Bridge* project in the Cyber Security Living Lab:
 > - Real-time state telemetry from physical & simulated Siemens PLCs (RUN, STOP, ERROR, Speed, Temp).
