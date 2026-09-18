@@ -61,6 +61,14 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 > - Live incident intake API for student sensor scripts and defensive alerting.
 > - Provides an accessible entry point for students to master Operational Technology security.
 
+### 🕵️‍♂️ [Anonymous WebRTC P2P Chat](https://github.com/fabjan4u/anonieme-chat)
+> **A completely anonymous, secure, and lightning-fast Peer-to-Peer chat application.**
+> Built with WebRTC, React, and Node.js for zero-log, end-to-end encrypted communication:
+> - **100% E2EE & P2P:** Messages flow directly between users via secure DTLS/SCTP data channels.
+> - **Zero Metadata & No Logs:** No accounts, no database, and no message logging. Completely temporary sessions.
+> - **NAT Traversal:** Implements STUN and TURN servers for seamless communication across strict 4G networks.
+> - **Live Demo:** Test the live application at [anonieme-chat.onrender.com](https://anonieme-chat.onrender.com)
+
 ---
 
 ## 📊 Activity & Analytics
