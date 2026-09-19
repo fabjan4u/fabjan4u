@@ -78,6 +78,15 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 > - **One-Click Execution:** Instant dispatch via `mailto:`, clipboard export, and `.txt` download.
 > - **Live Application:** [fabjan4u.github.io/vergeet-mij](https://fabjan4u.github.io/vergeet-mij/)
 
+### 🌳 [SchaduwRadar / CoolWalk (Hittegolf Routeplanner)](https://github.com/fabjan4u/SchaduwRadar)
+> **Real-time solar geometry and shade pedestrian route planner for urban heatwaves.**
+> Protects vulnerable citizens, pedestrians, and pets against dangerous 55°C+ urban asphalt and heat stress:
+> - **Solar Physics & Shade Routing:** Computes exact NOAA sun azimuth and elevation to calculate street-level building and tree shade.
+> - **Green Urban Corridors:** Integrates OpenStreetMap, Overpass API, and OSRM to guide walkers through public parks, tree-lined corridors, and shaded street sides (up to 90% shade and ~20°C cooler ground).
+> - **Dog Paw Safety & Thermal Buffer:** Monitors pavement temperature and models asphalt thermal mass retention to prevent pet paw burns (7-second rule).
+> - **Zero Commercial APIs:** 100% open-data driven using OpenStreetMap, Overpass, and Open-Meteo.
+> - **Live Application:** [fabjan4u.github.io/SchaduwRadar](https://fabjan4u.github.io/SchaduwRadar/)
+
 ---
 
 ## 📊 Activity & Analytics
