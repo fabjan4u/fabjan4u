@@ -83,8 +83,8 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 ## 📊 Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabjan4u&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fabian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabjan4u&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fabjan4u&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fabian's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabjan4u&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
