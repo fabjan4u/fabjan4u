@@ -69,7 +69,7 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 > - **NAT Traversal:** Implements STUN and TURN servers for seamless communication across strict 4G networks.
 > - **Live Demo:** Test the live application at [anonieme-chat.onrender.com](https://anonieme-chat.onrender.com)
 
-### 🛑 [Vergeet Mij! (AVG/GDPR Sloopkogel)](https://github.com/fabjan4u/vergeet-mij)
+### 🛑 [Vergeet Mij! (AVG/GDPR)](https://github.com/fabjan4u/vergeet-mij)
 > **100% Client-side GDPR / AVG data deletion, access, and objection request generator.**
 > Empowers citizens and consumers to exercise their fundamental digital privacy rights under European law (Art. 17, 15, and 21 GDPR):
 > - **100% Client-Side Privacy:** Zero telemetry, no cloud servers, and no tracking. All personal details strictly remain in the user's local browser.
