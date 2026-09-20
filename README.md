@@ -62,11 +62,12 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 > - Provides an accessible entry point for students to master Operational Technology security.
 
 ### 🕵️‍♂️ [Anonymous WebRTC P2P Chat](https://github.com/fabjan4u/anonieme-chat)
-> **A completely anonymous, secure, and lightning-fast Peer-to-Peer chat application.**
-> Built with WebRTC, React, and Node.js for zero-log, end-to-end encrypted communication:
-> - **100% E2EE & P2P:** Messages flow directly between users via secure DTLS/SCTP data channels.
-> - **Zero Metadata & No Logs:** No accounts, no database, and no message logging. Completely temporary sessions.
-> - **NAT Traversal:** Implements STUN and TURN servers for seamless communication across strict 4G networks.
+> **A heavily secured, anonymous, and zero-log Peer-to-Peer chat application.**
+> Built with WebRTC, React, and Node.js. Recently overhauled with advanced cryptography to defeat signaling MITM attacks:
+> - **Hardened E2E Signaling:** Uses the Web Crypto API (AES-GCM + PBKDF2) to encrypt WebRTC connection data *before* it leaves the browser.
+> - **Strict IP-Leak Prevention:** Public STUN servers are stripped out; all traffic is forced through a secure TURN relay to hide local and public IP addresses.
+> - **Visual Safety Numbers:** Cryptographic session codes allow users to visually verify that their connection is safe from eavesdropping.
+> - **Zero Metadata:** No accounts, no database, and zero server logging. Completely temporary sessions.
 > - **Live Demo:** Test the live application at [anonieme-chat.onrender.com](https://anonieme-chat.onrender.com)
 
 ### 🛑 [Vergeet Mij! (AVG/GDPR)](https://github.com/fabjan4u/vergeet-mij)
