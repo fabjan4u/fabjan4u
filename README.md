@@ -36,6 +36,7 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 
 | Domain | Focus & Tools |
 | :--- | :--- |
+| **Systems & Tooling (Rust)** | Rust (Tokio Async, Ratatui TUI, Crossterm, PKCE OAuth, Cross-Platform Binaries) |
 | **Cybersecurity & Hardening** | CIS Benchmarks L1/L2, Windows Server 2025, Windows 11 Hardening, SecEdit, Audit Logging, UAC, BitLocker |
 | **OT & Industrial Control (ICS)**| Siemens S7 PLCs, Snap7, SCADA/PLC simulation, Industrial Telemetry, Blue Team SOC defense |
 | **Automation & Scripting** | PowerShell 5.1/7+ (Hardening modules), Python (SOC & Telemetry), Bash, Shell scripting |
@@ -46,6 +47,15 @@ Today, I focus on bridging the gap between vocational education (MBO), applied s
 ---
 
 ## 🚀 Featured Open Source & Educational Projects
+
+### 📻 [Sub-1K Radio (`sub1k`)](https://github.com/fabjan4u/sub1k)
+> **Terminal player & crate-digging engine in Rust to rescue indie artists from Spotify's <1000 stream demonetization threshold.**  
+> Built with Rust, Tokio, Ratatui (TUI), and the Spotify Web API (PKCE OAuth):
+> - **Underdog Discovery ("Crate Digger"):** Digs up truly obscure indie tracks using popularity filters (`popularity <= 3`), hipster tags, and continuous auto-replenishment.
+> - **Smart Boost Mode:** Delivers legitimate, fraud-safe stream credits (40–60s randomized jitter) to dozens of underground artists while scanning music.
+> - **DJ-Style Crossfade:** Smooth volume fade-outs and fade-ins for seamless transitions between tracks.
+> - **Impact Tracking & Connect Control:** Persistently records rescued songs locally (`rescued_stats.json`) and controls active Spotify Connect players with zero latency.
+> - **Cross-Platform:** Ships with automated GitHub Actions CI/CD releasing optimized binaries for Linux, macOS, and Windows.
 
 ### 🔒 [CIS Windows Server 2025 & 11 Hardening Suite](https://github.com/fabjan4u/cis-hardening-suite)
 > **Automated CIS Benchmark compliance, baseline auditing, and security reporting engine.**
